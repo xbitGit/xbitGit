@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://github.com/xbitGit/images/blob/main/4.svg" width="300" height="300">
+    <img src="https://github.com/xbitGit/images/blob/main/logo.svg" width="300" height="300">
   </a>
 
   <h3 align="center">xBitFarms Project</h3>
