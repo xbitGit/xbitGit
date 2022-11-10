@@ -14,6 +14,11 @@
   
 
 <!-- TABLE OF CONTENTS -->
+- [About xBitFarms](#about-xBitFarms)
+- [Roadmap](#roadmap)
+- [Contact](#contact)
+- [Whitepaper](#whitepaper)
+
 <details>
   <summary>Table of Contents</summary>
     <li>
