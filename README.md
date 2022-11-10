@@ -1,22 +1,19 @@
 ### Hi there 👋
+<!-- PROJECT LOGO -->
+<br />
 <div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/1.gif" alt="Logo">
+  </a>
 
-  <img src="images/1.gif" alt="logo" width="200" height="auto" />
-  <h1>Awesome Readme Template</h1>
-  
-  <img src="images/2.mp4" alt="logo" width="200" height="auto" />
-  <h1>Awesome Readme Template</h1>
-  
-  <img src="images/3.png" alt="logo" width="200" height="auto" />
-  <h1>Awesome Readme Template</h1>
-  
-  <img src="images/4.svg" alt="logo" width="200" height="auto" />
-  <h1>Awesome Readme Template</h1>
-  
-  <p>
+  <h3 align="center">Best-README-Template</h3>
+
+  <p align="center">
     XBitFarms Project
   </p>
+</div>
   
+   
 <!--
 **xbitGit/xbitGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
