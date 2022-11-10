@@ -2,13 +2,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/5.jpg" alt="Logo" width="500" height="500">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://github.com/xbitGit/images/blob/main/5.jpg" alt="Logo" width="500" height="500">
   </a>
 
-  <h3 align="center">xBitFarms Project</h3>
+  <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    XBitFarms Project Details
+    XBitFarms Project
   </p>
 </div>
   
