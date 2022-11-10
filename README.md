@@ -6,10 +6,10 @@
     <img src="images/5.jpg" alt="Logo" width="500" height="500">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">xBitFarms Project</h3>
 
   <p align="center">
-    XBitFarms Project
+    XBitFarms Project Details
   </p>
 </div>
   
