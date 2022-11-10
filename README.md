@@ -5,7 +5,7 @@
     <img src="https://github.com/xbitGit/images/blob/main/logo.svg" width="300" height="300">
   </a>
 
-  <h3 align="center">xBitFarms Project</h3>
+  <h1 align="center">xBitFarms Project</h1>
 
   <p align="center">
     XBitFarms Project Details
@@ -14,7 +14,7 @@
   
 
 <!-- TABLE OF CONTENTS -->
-# Table Of Contents
+## Table Of Contents
 - [About xBitFarms](#about-xBitFarms)
 - [Roadmap](#roadmap)
 - [Contact](#contact)
