@@ -16,7 +16,6 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
-  <ol>
     <li>
       <a href="#about-xBitFarms">About xBitFarms</a>
  <!--     <ul>
@@ -36,7 +35,7 @@
     <li><a href="#roadmap">Roadmap</a></li> 
     <li><a href="#contact">Contact</a></li> 
     <li><a href="#whitepaper">WhitePaper</a></li>
-  </ol>
+
 </details>
    
 <!-- ABOUT XBITFARMS -->
