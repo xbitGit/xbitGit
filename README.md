@@ -1,4 +1,3 @@
-### Hi there 👋
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -14,34 +13,13 @@
   
 
 <!-- TABLE OF CONTENTS -->
+# Table Of Contents
 - [About xBitFarms](#about-xBitFarms)
 - [Roadmap](#roadmap)
 - [Contact](#contact)
 - [Whitepaper](#whitepaper)
 
-<details>
-  <summary>Table of Contents</summary>
-    <li>
-      <a href="#about-xBitFarms">About xBitFarms</a>
- <!--     <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li> -->
-    <li><a href="#roadmap">Roadmap</a></li> 
-    <li><a href="#contact">Contact</a></li> 
-    <li><a href="#whitepaper">WhitePaper</a></li>
 
-</details>
    
 <!-- ABOUT XBITFARMS -->
 ## About xBitFarms
