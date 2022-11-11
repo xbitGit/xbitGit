@@ -14,7 +14,7 @@
   
 
 <!-- TABLE OF CONTENTS -->
-<h4> Table Of Contents </h4>
+## Table Of Contents
 - [About xBitFarms](#about-xBitFarms)
 - [Roadmap](#roadmap)
 - [Contact](#contact)
