@@ -16,8 +16,7 @@
 <!-- TABLE OF CONTENTS -->
 ## Table Of Contents
 - [About xBitFarms](#about-xBitFarms)
-- [Roadmap](#roadmap)
-- [Contact](#contact)
+- [Discord](#Discord)
 - [Whitepaper](#whitepaper)
 
 
@@ -34,13 +33,11 @@ There are a lot of facts about our project that set us apart from other projects
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ROADMAP -->
-## Roadmap
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-## Contact
+<!-- DISCORD -->
+## Discord
+We have a discord and you should be on it!
+[Our discord server](https://t.co/PkypiPzQPS)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
