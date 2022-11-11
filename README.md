@@ -8,7 +8,7 @@
   <h2 align="center">xBitFarms Project</h2>
 
   <p align="center">
-    The worlds first interactive farm based NFT project.
+    The worlds first interactive farm-based NFT project.
   </p>
 </div>
   
