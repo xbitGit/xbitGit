@@ -5,7 +5,7 @@
     <img src="https://github.com/minitacoslayer/images/blob/main/3.png" width="300" height="300">
   </a>
 
-  <h1 align="center">xBitFarms Project</h1>
+  <h2 align="center">xBitFarms Project</h2>
 
   <p align="center">
     The worlds first interactive farm based NFT project.
@@ -14,7 +14,7 @@
   
 
 <!-- TABLE OF CONTENTS -->
-## Table Of Contents
+<h4> Table Of Contents </h4>
 - [About xBitFarms](#about-xBitFarms)
 - [Roadmap](#roadmap)
 - [Contact](#contact)
