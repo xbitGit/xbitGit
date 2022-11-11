@@ -36,8 +36,7 @@ There are a lot of facts about our project that set us apart from other projects
 
 <!-- DISCORD -->
 ## Discord
-We have a discord and you should be on it!
-[Our discord server](https://t.co/PkypiPzQPS)
+We have a [discord](https://t.co/PkypiPzQPS) and you should be on it!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
