@@ -2,7 +2,7 @@
 <a name="readme-top"></a>
 <br />
 <div align="center">
-    <img src="https://github.com/xbitGit/xbitGit/blob/main/logo.svg" width="300" height="300">
+    <img src="https://github.com/minitacoslayer/images/blob/main/3.png" width="300" height="300">
   </a>
 
   <h1 align="center">xBitFarms Project</h1>
