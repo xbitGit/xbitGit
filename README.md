@@ -3,7 +3,7 @@
 <br />
 <div align="center">
 
-    ![Image](../Assets/3.png?raw=true)
+    ![Image](/Assets/3.png?raw=true)
     
   </a>
 
