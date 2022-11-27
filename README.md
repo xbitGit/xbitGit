@@ -3,8 +3,8 @@
 <br />
 <div align="center">
 
-    ![Image](/Assets/3.png?raw=true)
-    
+<img src="https://github.com/xbitGit/Assets/blob/main/3.png" width="400" height="400">
+
   </a>
 
   <h2 align="center">xBitFarms Project</h2>
