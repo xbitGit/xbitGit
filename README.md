@@ -3,7 +3,7 @@
 <br />
 <div align="center">
 
-    ![logo](Assets/3.png?raw=true)
+    ![logo](/Assets/3.png?raw=true)
     
   </a>
 
